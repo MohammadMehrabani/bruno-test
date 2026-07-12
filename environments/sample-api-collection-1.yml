@@ -1,0 +1,4 @@
+name: sample-api-collection-1
+variables:
+  - name: url
+    value: https://jsonplaceholder.typicode.com
